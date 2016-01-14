@@ -1,0 +1,18 @@
+--palette-1-h 0
+--palette-1-s 50%
+--palette-1-l 50%
+--palette-1 hsl(var(--palette-1-h), var(--palette-1-s), var(--palette-1-l))
+
+--palette-1-l-dark 35%
+--palette-1-dark hsl(var(--palette-1-h), var(--palette-1-s), var(--palette-1-l-dark))
+
+--palette-1-l-darker 20%
+--palette-1-darker hsl(var(--palette-1-h), var(--palette-1-s), var(--palette-1-l-darker))
+
+--palette-1-l-light 65%
+--palette-1-light hsl(var(--palette-1-h), var(--palette-1-s), var(--palette-1-l-light))
+
+--palette-1-l-lighter 80%
+--palette-1-lighter hsl(var(--palette-1-h), var(--palette-1-s), var(--palette-1-l-lighter))
+
+// TODO 2, 3, primary, secondary, etc
